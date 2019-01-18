@@ -1,0 +1,45 @@
+header {
+    height: 100px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+    border-bottom: 2px solid black;
+}
+
+/* ------- BODY ---------*/
+
+header img{
+    float: left;
+    margin: 25px auto 25px auto;
+}
+
+header ul {
+    display: inline-block;
+    margin: 30px;
+    margin-left: 10px;
+}
+
+header p {
+    float: right;
+
+}
+
+header li:last-child{
+    font-size: 10px;
+    font-family: 'Abel', sans-serif;
+}
+
+#logo{
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+}
+
+#socialMedia {
+    float: right;
+}
+
+#socialMedia img{
+    margin: 1px;
+}
+
