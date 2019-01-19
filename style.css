@@ -1,0 +1,54 @@
+header {
+    font-style: Impact, Charcoal, sans-serif;
+}
+
+
+nav img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+section img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  background-image: url("img_list-bg");
+}
+#list1 {
+    display: inline;
+    position: absolute;
+    left: 25%;
+    right: 600px;
+    width: 300px;
+    top: 900px;
+    margin-left: 1px;
+    margin-right: 400px;
+    margin: px;
+    line-height: 20px;
+    list-style-type: none;
+
+}
+li input[type=checkbox]{
+    display: inline-block;
+    vertical-align: top;
+}
+   
+#list2 {
+    display: inline;
+    position: absolute;
+    left: 50%;
+    right: 800px;
+    width: 300px;
+    top: 900px;
+    margin-left: 3px;
+    margin-right: 300px;
+    line-height: 20px;
+    list-style-type: none;
+}
